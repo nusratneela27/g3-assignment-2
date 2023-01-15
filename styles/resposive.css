@@ -1,8 +1,8 @@
 /* small media repossive */
 
-@media screen and (max-width: 575.98px) {
+@media screen and (max-width: 576px) {
     /* navbar start */
-
+    
     .navbar-wrapper {
         flex-direction: column;
     }
@@ -24,6 +24,7 @@
     .banner-title, .second-banner-title {
         font-size: 44px;
         padding: 0 11px;
+
     }
 
     .banner-title {
@@ -229,5 +230,4 @@
     }
     
     /* footer end */
-
 }

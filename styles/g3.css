@@ -281,7 +281,7 @@ a {
 }
 /* some facts end */
 
-/* sponer start */
+/* sponser start */
 .sponser-heading {
     text-align: center;
     margin-bottom: 50px;
@@ -306,6 +306,9 @@ a {
     display: flex;
     justify-content: space-between;
     margin-bottom: 130px;
+}
+.sponser-item{
+    filter: grayscale(100%);
 }
 /* sponer end */
 
